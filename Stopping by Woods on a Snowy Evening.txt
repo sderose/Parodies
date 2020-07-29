@@ -1,0 +1,48 @@
+=======================================
+“Stopping by Woods on a Snowy Evening” -Robert Frost
+
+Whose words these are I think I know.
+His files are PDF, oh no!
+He will not see me stopping here
+To make his words be tagged and flow.
+
+My little parse must think it queer
+To stop without an element near
+Between the words and tags I make
+While normalizing there and here.
+
+I give the test harness a shake
+To see if there is some mistake.
+Then more tags surround the sweep
+For structure gained that does not break.
+
+The trees now lovely, dark and deep,
+But I have validness to reap,
+And files to parse before I sleep,
+And files to parse before I sleep.
+
+
+=======================================
+“Stopping by Woods on a Snowy Evening” -Robert Frost
+
+Whose woods these are I think I know.
+His house is in the village though;
+He will not see me stopping here
+To watch his woods fill up with snow.
+
+My little horse must think it queer
+To stop without a farmhouse near
+Between the woods and frozen lake
+The darkest evening of the year.
+
+He gives his harness bells a shake
+To ask if there is some mistake.
+The only other sound’s the sweep
+Of easy wind and downy flake.
+
+The woods are lovely, dark and deep,
+But I have promises to keep,
+And miles to go before I sleep,
+And miles to go before I sleep.
+
+

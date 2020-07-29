@@ -1,0 +1,38 @@
+=======================================
+“XSLT Fever” - apol. John Masefield
+
+I must walk down through the trees again, so the lonely leaves all comply,
+And all I ask is a bash script, and a parser to run thereby.
+My XSL's sick and the mode's wrong, with structure fails waking;
+with a great mess in the tree’s place: another dawn breaking.
+
+I must walk down through the trees again, with the call in the template's mode:
+A compiled call, a FLWOR call that may not be o'errode;
+And all I ask is right display with the right code applying,
+No text astray and no blown stack; output verifying.
+
+I must walk down through the trees again, errors flagrant, typsy, rife --
+Next the tag-ful way, the no-fail way where the parser may yet survive.
+And all I ask is a good Sauterne from a laughing fellow-coder,
+And quiet sleep and a sweet dream when the long kick’s over.
+
+
+=======================================
+“Sea Fever” - John Masefield
+
+I must go down to the seas again, to the lonely sea and the sky,
+And all I ask is a tall ship and a star to steer her by;
+And the wheel’s kick and the wind’s song and the white sail’s shaking,
+And a grey mist on the sea’s face, and a grey dawn breaking.
+
+I must go down to the seas again, for the call of the running tide
+Is a wild call and a clear call that may not be denied;
+And all I ask is a windy day with the white clouds flying,
+And the flung spray and the blown spume, and the sea-gulls crying.
+
+I must go down to the seas again, to the vagrant gypsy life,
+To the gull’s way and the whale’s way where the wind’s like a whetted knife;
+And all I ask is a merry yarn from a laughing fellow-rover,
+And quiet sleep and a sweet dream when the long trick’s over.
+
+

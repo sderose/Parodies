@@ -1,0 +1,58 @@
+=======================================
+"Do Not Go Gentle Into That Good night" - Dylan Thomas
+
+Do not go gentle into MarkDown-light,
+A sage should learn that start and close are tied;
+Rage, rage against the punctuation blight.
+
+Though wise men at their end know tags are right,
+Having no tags they must with whitespace play.
+Do not go gentle into MarkDown-light.
+
+Good men, the last wave by, crying how bright
+Their failed screeds might have danced in TEI,
+Rage, rage against the punctuation blight.
+
+Wild men who scanned and laid the text out right,
+Yet learn, too late, they gave space, star full sway.
+Do not go gentle into MarkDown-light.
+
+Grave men, near death, who see with blinding sight,
+Plain text displayed like meteors if 'twer tagged --
+Rage, rage against the punctuation blight.
+
+And you, my parser, there on the sad height,
+Curse, bless, me now with your fierce tears, I pray.
+Do not go gentle into MarkDown-light.
+Rage, rage against the punctuation blight.
+
+
+=======================================
+"Do Not Go Gentle Into That Good night" - Dylan Thomas
+
+Do not go gentle into that good night,
+Old age should burn and rave at close of day;
+Rage, rage against the dying of the light.
+
+Though wise men at their end know dark is right,
+Because their words had forked no lightning they
+Do not go gentle into that good night.
+
+Good men, the last wave by, crying how bright
+Their frail deeds might have danced in a green bay,
+Rage, rage against the dying of the light.
+
+Wild men who caught and sang the sun in flight,
+And learn, too late, they grieved it on its way,
+Do not go gentle into that good night.
+
+Grave men, near death, who see with blinding sight
+Blind eyes could blaze like meteors and be gay,
+Rage, rage against the dying of the light.
+
+And you, my father, there on the sad height,
+Curse, bless, me now with your fierce tears, I pray.
+Do not go gentle into that good night.
+Rage, rage against the dying of the light.
+
+

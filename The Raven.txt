@@ -1,0 +1,105 @@
+[apologies to Edgar Allan Poe]
+
+ONCE upon a midnight dreary, while I browséd, weak and weary,
+over many tainted rend'rings in old Internet Explor',
+While I fretted, tags o'rlapping, suddenly there came a tapping,
+As of someone gently rapping, challenging my schema's core.
+
+"'Tis some visitor," I muttered, "challenging my schema's core.
+HTML: I need no more!"
+
+Ah, distinctly I remember validating data members
+And each separate tagging error wrought its increase on my chore.
+
+Eagerly I wished the morrow -- vainly I had sought to borrow
+"tidy" for surcease of sorrow -- sorrow for texts made offshore,
+For the tireless tagging maidens whom the project hired offshore:
+Nameless here for evermore.
+
+And the parser -- sad uncertain victim of each ill-formed tagging
+crashéd -- filled up with fantastic errors never seen before;
+So that now to still the bleating of my screen I stood repeating
+"'Tis some visitor entreating changes to my schema's core,
+Some late visitor entreating changes to my schema's core:
+This it is and nothing more."
+
+Presently waxed my boss’s anger; <b> and <table> worked no longer.
+"Sir," said I, "or Madam, truly your forgiveness I implore;
+But the fact is that it's rendered, never mind the blind or tenured!"
+Then so faintly came one tapping, sapping at my schema's core,
+Thoughts I scarce had thought I needed -- here I opened wide the door: --
+Darkness there and nothing more.
+
+Deep into that darkness peering, long I stood there wondering, fearing,
+Doubting, dreaming schemes no mortals dared to scheme before;
+Still the beeping was unbroken, and the parser gave no token,
+And the only word there spoken was the fateful word, "Offshore?"
+"Yes" I whispered, and an echo murmured back the word, "Offshore."
+Merely this and nothing more.
+
+Back to the computer turning, all my soul within me burning,
+Soon again I heard a tapping somewhat louder than before.
+
+"Surely," said I, "surely that is nothing but my Windows status;
+Let me see, then, what the message, and this mystery explore;
+Let my heart be still a moment and this bright blue screen explore:
+Windows 'tis and nothing more."
+
+Closed IE now with a mutter, when, with many a flirt and flutter,
+In there stepped a stately Maven of the markup days of yore.
+
+Not the least obeisance made he; not a minute stopped or stayed he;
+But, with mien of lord or lady, perched within my chamber door
+Perched aside a bust of Goldfarb just above my chamber door:
+Perched, and stared, and nothing more.
+
+Then this regius beguiling my sad fancy into smiling
+By the grave and stern decorum of the countenance I spy, --
+"Though thou be not shorn and shaven, thou," I said, "art sure no craven,
+Ghastly grim and ancient Maven wandering from the tagger's sky:
+Tell me what thy schema name is for my texts' improvement try!"
+Quoth the Maven, "TEI."
+
+Much I marveled insecurely though he discoursed cavalierly,
+In his answer little meaning -- little relevance I spy;
+For we cannot help be vehement: no consulting work agreement
+Ever yet allowed for money, late for "changing schemas" spent
+(for Maven aside a sculptured bust within the chamber nigh),
+to such scheme as "TEI."
+
+But the Maven sitting lonely by the placid bust spoke only
+That one word, as if his soul in that one word he did outpour.
+
+Nothing further then he uttered, but with schema tweaks he puttered,
+Till I scarcely more than muttered -- "Other schemes I've oft applied;
+On the morrow he will leave me, as my Hopes are left to die."
+Quoth the Maven, "TEI."
+
+Startled at the stillness broken by reply so aptly spoken,
+"Doubtless," said I, "what it utters is its only tag supply,
+Learned from some unhappy editor whom unmerciful Disaster
+Followed fast and followed faster till his texts one schema ply:
+Till the dirges of his Hope that melancholy schema try:
+with the tags called “TEI."
+
+But the Maven still beguiling all my fancy into smiling,
+Straight I wheeled a cushioned seat in front of screen and bust and more;
+Then, upon the velvet sinking, I betook myself to linking
+Feature unto feature, thinking what my ominous boss would cry,
+What my grim, ungainly, ghastly, gaunt, and ominous boss would cry,
+when I gave her "TEI."
+
+This I sat engaged in guessing, but no syllable expressing
+To the one whose fiery eyes burned away my schema's lies.
+Tags with meaning now divining, now my long-term fears declining
+On the cushion's velvet lining as I made my files comply,
+<resp> and <titlestmt> tagging, through the parser now I fly!
+Nothing less than TEI!
+
+Then, methought, the air grew denser, perfumed from an unseen censer
+Swung by seraphim whose foot-falls tinkled on the tufted floor.
+
+"Wretch," I cried, "thy God hath lent thee -- by these angels he hath sent thee
+Respite -- respite and nepenthe from thy tagging done awry!"
+Quaff, oh quaff this kind nepenthe, and HTML deny."
+Quoth the Maven, "TEI.”

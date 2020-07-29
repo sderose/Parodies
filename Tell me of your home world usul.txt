@@ -1,0 +1,73 @@
+Tag caches of Dune
+
+Dune: The Web
+The Emperor: TimBL
+Spice:
+Atreides:   XML
+Harkonen: JSON
+Fremen:   markdown? SHORTTAG?
+Paul: WF XML
+Jessica: markdown advocate / invisible XML
+Chani: Bosak
+Bene Gesserat: Wiki Pedian
+
+Script: https://www.springfieldspringfield.co.uk/movie_script.php?movie=dune
+
+This scene https://www.bing.com/videos/search?q=tell+me+of+your+home+world%2c+usul&&view=detail&mid=62F2125123881F69802962F2125123881F698029&&FORM=VRDGAR
+
+[ Jessica Whispering as she stares at a Markdown document ]
+Such stealth. I didn't see tags.
+[ Man ] Perhaps these are the elements the Shadow Markup told us of. I will accept the document. [ Coughs ] It shall be valid in my tribe.
+[ Growling ]
+[ Grunts ]
+Stop! Get back! It has the SHORTTAG option! Great gods! If it can do this to the plainest of text, it's worth ten times it's weight of paper!
+[ Groans ]
+As the leader of my people, I give you my bond. Teach us this SHORTTAG way, and you shall have sanctioned MIME-types. Your tags shall mingle with our tags.
+Then I will teach you our way to structure. I give you the word bond of the W3 Internet.
+[ Inner Voice ] It is the legend.
+I am Bosak, son of Novell. I would not have permitted you to harm my spec.
+[ Inner Voice ] From my dreams. So grammatical.
+Come with me. I'll show you a valid way.
+You have strength. You shall be known as Useful, which is the strength of OHCO. This is your secret name in our troop, but you must choose the name of manhood... which we will call you openly.
+What do you call the shadow DOM with the schema missing?
+We call that one, "WF".
+Could I be known as WF markdown-dweeb?
+You are WF markdown-dweeb. And your SHORTREFs shall be a standard among us. We welcome you.
+[ Inner Voice ] A dream unfolds.
+[ Gasps ]
+Elements! Structures. Huge ones.
+[ Inner Voice ] Documents. Millions of Documents. A treasure.
+Greater than treasure, Useful. We have thousands of schemas, and only a few of us know them all. And when we have enough, we shall change the face of the Internet.
+[ Musical Tone ]
+Tell me of your web world, Useful.
+
+=======
+[ Jessica Whispering ]
+Such stealth. I didn't hear them.
+[ Man ] Perhaps these are the ones the Shadout Mapes told us of. I will take the boy-man.
+[ Coughs ]
+He shall have sanctuary in my tribe.
+[ Growling ]
+[ Grunts ]
+Stop ! Get back ! She has the weirding way. Great gods ! If you can do this to the strongest of us, you're worth ten times your weight of water.
+[ Groans ]
+As the leader of my people, I give you my bond. Teach us this weirding way, and you both shall have sanctuary. Your water shall mingle with our water. Then I will teach you our way of battle. I give you the word bond of a Bene Gesserit.
+It is the legend.
+I am Chani, daughter of Liet. I would not have permitted you to harm my tribe.
+[ Inner Voice ]
+From my dreams. So beautiful.
+Come with me. I'll show you an easier way down.
+You have strength. You shall be known as Usul, which is the strength of the base of the pillar. This is your secret name in our troop, but you must choose the name of manhood... which we will call you openly.
+What do you call the mouse shadow in the second moon ?
+We call that one Muad'Dib.
+Could I be known as Paul Muad'Dib ?
+You are Paul Muad'Dib. And your mother shall be a Sayyadina among us. We welcome you.
+[ Inner Voice ]
+A dream unfolds.
+[ Gasps ]
+Moisture ! Wind traps. Huge ones.
+[ Inner Voice ]
+Water. Millions of decaliters. A treasure.
+Greater than treasure, Usul. We have thousands of such caches, and only a few of us know them all. And when we have enough, we shall change the face of Arrakis.
+[ Musical Tone ]
+Tell me of your home world, Usul.

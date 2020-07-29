@@ -1,0 +1,93 @@
+=======
+
+I write the content models for a modern validation tool,
+I've information elements canonical and minimal,
+My tags are not delinquent, and I quote the attributes and all
+From XML to PostScript, too, in ordered trees hierarchical.
+
+I'm very well acquainted, too, with schema rules grammatical,
+I understand MathML, both the simple and quadratical,
+About finite automata I'm teeming with a lot o' news;
+To writing fearful detail checks in Schematron I've gotten used.
+
+I'm very good at Unicode and document analysis;
+I know the scientific names of parser bugs voluminous:
+In short, in matters validated, XML, and minimal,
+I write the content models for a modern validation tool.
+
+I know our mythic histories, King Goldfarb's and Sir TimBL's;
+When faced with diagnostics, I make do with well-formed XML,
+I quote in entity-refs all the crimes of Ampersands and such,
+In content I can tag peculiarities lugubrious;
+
+I can tell undoubted LMNLs from Rabbit-Ducks and Trojan trees,
+I know the 4-part chorus for the speeches of Sperberg-McQueen's!
+Then I can add some lines for them in metadata Dublin Core,
+To make it obvious he has the claim to be contributor.
+
+Now I can write my Python code in UTF cuneiform,
+And tell you ev'ry rule that makes the characters all uniform:
+In short, in matters validated, XML, and minimal,
+I write the content models for a modern validation tool.
+
+In fact, when I know what is meant by "well-formed" and "draconian",
+When I can tell at sight a syntax error from encomium,
+When XSLT transformations leave the text entirely flat,
+And when I know precisely who's on ISO Secretariat,
+
+When I have learnt what progress has been made in JSON flummery,
+When I know more of graphics than a typist in recovery –
+In short, when I'm done shattering each element's legality –
+You'll say a better valida'tion tool is built on XSD.
+
+For my topiary knowledge, all the pruning and adjoinery,
+Has only been brought down to the beginning of the century;
+But still, in matters validated, XML, and minimal,
+I write the content models for a modern validation tool.
+
+
+===================
+
+I am the very model of a modern Major-General,
+I've information vegetable, animal, and mineral,
+I know the kings of England, and I quote the fights historical
+From Marathon to Waterloo, in order categorical;[a]
+I'm very well acquainted, too, with matters mathematical,
+I understand equations, both the simple and quadratical,
+About binomial theorem I'm teeming with a lot o' news,
+With many cheerful facts about the square of the hypotenuse.
+
+I'm very good at integral and differential calculus;
+I know the scientific names of beings animalculous:
+In short, in matters vegetable, animal, and mineral,
+I am the very model of a modern Major-General.
+
+I know our mythic history, King Arthur's and Sir Caradoc's;
+I answer hard acrostics, I've a pretty taste for paradox,
+I quote in elegiacs all the crimes of Heliogabalus,
+In conics I can floor peculiarities parabolous;
+I can tell undoubted Raphaels from Gerard Dows and Zoffanies,
+I know the croaking chorus from The Frogs of Aristophanes!
+Then I can hum a fugue of which I've heard the music's din afore,
+And whistle all the airs from that infernal nonsense Pinafore.
+
+Then I can write a washing bill in Babylonic cuneiform,
+And tell you ev'ry detail of Caractacus's uniform:
+In short, in matters vegetable, animal, and mineral,
+I am the very model of a modern Major-General.
+
+In fact, when I know what is meant by "mamelon" and "ravelin",
+When I can tell at sight a Mauser rifle from a javelin,
+When such affairs as sorties and surprises I'm more wary at,
+And when I know precisely what is meant by "commissariat",
+When I have learnt what progress has been made in modern gunnery,
+When I know more of tactics than a novice in a nunnery –
+In short, when I've a smattering of elemental strategy –
+You'll say a better Major-General has never sat a gee.
+
+For my military knowledge, though I'm plucky and adventury,
+Has only been brought down to the beginning of the century;
+But still, in matters vegetable, animal, and mineral,
+I am the very model of a modern Major-General.
+
+
