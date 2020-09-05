@@ -2,7 +2,7 @@
 Penny Lane - The Beatles
 
 At parsing time, there is a tagger marking up page-proofs
-Of every <head> he's had the pleasure to close
+Of every <head> he's had the pleasure NOT to close
 With all the table cells in a row,
 Clipped on overflow.
 

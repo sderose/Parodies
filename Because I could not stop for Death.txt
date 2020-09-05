@@ -24,11 +24,11 @@ The objects lost, gone, still
 We paused before a page that showed
 One layout on the Ground
 The root was scarcely visible
-The [corr] and [sic]s? Not found.
+The <corr> and <sic>s? Not found.
 
 Since then -- 'tis Centuries -- and yet
 Feels shorter than the Day
-I first perceived the sections' heads
+I first perceived the <section>s' <head>s
 Were toward Eternity.
 
 
