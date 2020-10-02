@@ -3,7 +3,7 @@ Penny Lane - The Beatles
 
 At parsing time, there is a tagger marking up page-proofs
 Of every <head> he's had the pleasure NOT to close
-With all the table cells in a row,
+With all the layout done by table rows,
 Clipped on overflow.
 
 Oh the tagger is a wanker with a space-bar
