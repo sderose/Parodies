@@ -1,5 +1,6 @@
 ===================================
-Pick a pocket
+Pick a pocket (from the musical "Oliver", by Lionel Bart)
+    (parody by Steven J. DeRose)
 
 On the net, one thing counts
 Entropy, large amounts
@@ -34,8 +35,8 @@ You've got to crypt a packet or two, boys!
 You've got to crypt a packet or two
 
 [BOYS]
-Robin hood was far too good
-He had to crypt a packet or two
+WikiLeaks was far too good
+They had to crypt a packet or two
 
 [FAGIN]
 Take a tip from Bill Gates
