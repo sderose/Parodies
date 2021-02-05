@@ -1,0 +1,37 @@
+==============
+
+O XML, XML, wherefore art thou XML?
+Deny thy schema and refuse thy namespace;
+Or if thou wilt not, be well-formed, my love;
+And I’ll accept to be with tags beset.
+‘Tis but thy names that give validity:
+Thou art thyself, e'en mapped to untagged stew.
+What’s untagged stew? It hath not <handNote>, <mood>,
+Nor <milestone/>, <place>, nor even <witStart>
+Belonging to a plan. O use some other names.
+What’s in a name? That which we tag as prose,
+By any font name would as well I clepe;
+So XML would, were he not extensible call’d,
+Retain that page perfection which he owes
+With <font> for <title>. XML, doff thy names,
+And for those names, which are no part of thee,
+Take all my style.
+
+==============
+
+O Romeo, Romeo, wherefore art thou Romeo?
+Deny thy father and refuse thy name.
+Or if thou wilt not, be but sworn my love
+And I’ll no longer be a Capulet.
+‘Tis but thy name that is my enemy:
+Thou art thyself, though not a Montague.
+What’s Montague? It is nor hand nor foot
+Nor arm nor face nor any other part
+Belonging to a man. O be some other name.
+What’s in a name? That which we call a rose
+By any other name would smell as sweet;
+So Romeo would, were he not Romeo call’d,
+Retain that dear perfection which he owes
+Without that title. Romeo, doff thy name,
+And for that name, which is no part of thee,
+Take all myself.
