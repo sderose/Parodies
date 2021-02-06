@@ -1,5 +1,7 @@
 =================
-JSON
+Lola
+(parody by Steve DeRose)
+
 
 I saw a directory in jscript/all
 Where you download a file and it looks just like
@@ -56,6 +58,7 @@ JSON, no no no no JSON, no no no no JSON
 
 
 =================
+Lola
 
 I met her in a club down in old Soho
 Where you drink champagne and it tastes just like

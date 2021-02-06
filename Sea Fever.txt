@@ -1,5 +1,6 @@
 =======================================
-“XSLT Fever” - apol. John Masefield
+Sea Fever -- John Masefield
+(parody by Steve DeRose)
 
 I must walk down through the trees again, so the lonely leaves all comply,
 And all I ask is a bash script, and a parser to run thereby.
@@ -18,7 +19,7 @@ And quiet sleep and a sweet dream when the long kick’s over.
 
 
 =======================================
-“Sea Fever” - John Masefield
+“Sea Fever” -- John Masefield
 
 I must go down to the seas again, to the lonely sea and the sky,
 And all I ask is a tall ship and a star to steer her by;

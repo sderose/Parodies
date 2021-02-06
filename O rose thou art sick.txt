@@ -1,5 +1,6 @@
 =======================================
-William Blake
+O Rose thou art sick -- William Blake
+(parody by Steve DeRose)
 
 O prose thou art sick.
 The omitted tag,
@@ -13,7 +14,7 @@ Does thy parse destroy.
 
 
 =======================================
-William Blake
+O Rose thou art sick -- William Blake
 
 O Rose thou art sick.
 The invisible worm,

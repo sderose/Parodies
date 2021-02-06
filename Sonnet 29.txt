@@ -1,6 +1,6 @@
 =======================================
-Sonnet 29
-by William Shakespeare
+Sonnet 29 -- William Shakespeare
+(parody by Steve DeRose)
 
 When, in disgrace with parsers that just freeze,
 I all alone beweep my ill-tagged state,
@@ -17,13 +17,11 @@ From plain text birthed, sing hymns at heaven's gate;
    For my sweet text restructured such wealth brings
    That then I scorn to change my state with kings.
 
-
 [or line 1: 'for invalidities']
 
 
 =======================================
-Sonnet 29
-by William Shakespeare
+Sonnet 29 -- William Shakespeare
 
 When, in disgrace with fortune and men's eyes,
 I all alone beweep my outcast state,

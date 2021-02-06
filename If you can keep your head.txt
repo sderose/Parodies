@@ -1,5 +1,6 @@
 =======================================
-If [apologies to Rudyard Kipling]
+If -- Rudyard Kipling
+(parody by Steve DeRose)
 
 If you can keep your <head> when all about you
    Are losing <div>s and blaming it on you;
@@ -40,7 +41,8 @@ Yours is the Earth and every text that's in it,
 
 
 =======================================
-The initial publication of the poem "If—" was in the "Brother Square Toes" chapter of the book Rewards and Fairies (1910), p 181
+The initial publication of the poem "If—" was in the "Brother Square Toes" chapter
+    of the book Rewards and Fairies (1910), p 181.
 
 If you can keep your head when all about you
   Are losing theirs and blaming it on you,

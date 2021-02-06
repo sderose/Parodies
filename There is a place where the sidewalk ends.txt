@@ -1,5 +1,6 @@
 =======================================
-Shel Silverstein
+The place where the sidewalk ends -- Shel Silverstein
+(parody by Steve DeRose)
 
 There is a place where the text node ends
 And before the next begins,
@@ -22,7 +23,7 @@ The place where the text node ends.
 
 
 =======================================
-Shel Silverstein
+The place where the sidewalk ends -- Shel Silverstein
 
 There is a place where the sidewalk ends
 And before the street begins,

@@ -1,6 +1,6 @@
 ========================
-Robert Frost
-Fireflies In The Garden
+Fireflies In The Garden -- Robert Frost
+(parody by Steve DeRose)
 
 Here come real nodes to fill ontologies,
 And there in JSON nought but brace-like signs;
@@ -11,8 +11,7 @@ Only, of course, they can't sustain the part.
 
 
 ========================
-Robert Frost
-Fireflies In The Garden
+Fireflies In The Garden -- Robert Frost
 
 Here come real stars to fill the upper skies,
 And here on earth come emulating flies,

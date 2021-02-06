@@ -1,4 +1,6 @@
 =======================================
+Tyger Tyger, burning bright -- William Blake
+(parody by Steve DeRose)
 
 Tagger Tagger parsing right,
 Through tag forests in the night;

@@ -1,5 +1,6 @@
 =========================
-I've got a little list
+I've got a little list -- The Mikado
+(parody by Steve DeRose)
 
 [KO-KO]
 As some day it may happen ill-formed markup must be found
@@ -52,16 +53,14 @@ For they'd none of 'em be missed — they'd none of 'em be missed!
 You may put 'em on the list — you may put 'em on the list;
 And they'll none of 'em be missed — they'll none of 'em be missed!
 
-
 ---
 
 got approved by NIST
 got an ordered list
 
 
-
 =========================
-I've got a little list
+I've got a little list -- The Mikado
 
 [KO-KO]
 As some day it may happen that a victim must be found

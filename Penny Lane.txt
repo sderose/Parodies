@@ -1,5 +1,6 @@
 ====================
-Penny Lane - The Beatles
+Penny Lane -- The Beatles
+(parody by Steve DeRose)
 
 At parsing time, there is a tagger marking up page-proofs
 Of every <head> he's had the pleasure NOT to close
@@ -45,7 +46,7 @@ Parsing pain!
 
 
 ====================
-Penny Lane - The Beatles
+Penny Lane -- The Beatles
 
 In Penny Lane, there is a barber showing photographs
 Of every head he's had the pleasure to know

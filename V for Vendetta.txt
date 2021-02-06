@@ -1,4 +1,6 @@
 ==============
+V's Introduction, from V for Vendetta
+(parody by Steve DeRose)
 
 Voila! Text viewed, via a humble verifying validator, cast variously as victim
 or villain by the vicissitudes of Schemata. The view, no mere veneer of

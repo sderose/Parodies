@@ -1,5 +1,6 @@
 =======================================
-"Do Not Go Gentle Into That Good night" - Dylan Thomas
+Do Not Go Gentle Into That Good night -- Dylan Thomas
+(parody by Steve DeRose)
 
 Do not go gentle into MarkDown-light,
 A sage should learn that start and close are tied;
@@ -28,7 +29,7 @@ Rage, rage against the punctuation blight.
 
 
 =======================================
-"Do Not Go Gentle Into That Good night" - Dylan Thomas
+Do Not Go Gentle Into That Good night -- Dylan Thomas
 
 Do not go gentle into that good night,
 Old age should burn and rave at close of day;

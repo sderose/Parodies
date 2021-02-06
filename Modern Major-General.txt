@@ -1,4 +1,6 @@
-=======
+====================
+Modern Major General -- Pirates of Penzance
+(parody by Steve DeRose)
 
 I write the content models for a modern validation tool,
 I've information elements canonical and minimal,
@@ -47,6 +49,7 @@ I write the content models for a modern validation tool.
 
 
 ===================
+Modern Major General -- Pirates of Penzance
 
 I am the very model of a modern Major-General,
 I've information vegetable, animal, and mineral,

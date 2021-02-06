@@ -1,4 +1,6 @@
 ==============
+Wherefore art thou Romeo?
+(parody by Steve DeRose)
 
 O XML, XML, wherefore art thou XML?
 Deny thy schema and refuse thy namespace;

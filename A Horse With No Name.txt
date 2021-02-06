@@ -1,32 +1,32 @@
 ==================
-
 "A Horse With No Name" -- America
+(parody by Steve DeRose)
 
 On the first part of the journey
 I was looking at all the tags
 There were <part>s and <div>s and <note>s and things
 There was <span> and fills and strings
-The first thing untagged was a "li" -- with no star;
-then a cite untied from its note;
-Of heads now none, and tables naught a try.
-But the tabs were all around.
+The first thing I stripped was a <li> -- oops, no star;
+then a cite -- so no <note>;
+The heads are gone and the grids awry
+But the tabs are all around.
 
 I've been through the desert of a source with no tags
-It felt good to be out of the pain
+It felt good to have no syntax pain
 With no parser you can dismember your tags
 'Cause there ain't no one for to give you no pain
 La, la, la la la la, la la la, la la...
 La, la, la la la la, la la la, la la...
 
 After two days with no parser runs
-My screen began to go dead
+Work was slow with ten more threads
 After three days with no parser fun
-Work was slowing with ten more threads
-And the story it told of text runs that flowed
-Made me sad to think it was dead.
+My screen began to go dead
+And the story it told of text that overflowed
+Made me sad to think 'twould be read.
 
 You see I've been through the desert of a source with no tags
-It felt good to be out of the pain
+It felt good to have no syntax pain
 With no parser you can dismember your tags
 'Cause there ain't no one for to give you no pain
 La, la, la la la la, la la la, la la...
@@ -41,14 +41,13 @@ Under the layout lies a heart hidden 'round
 But the authors will give no love.
 
 You see I've been through the desert of a source with no tags
-It felt good to be out of the pain.
+It felt good to have no syntax pain.
 With no parser you can dismember your tags
 'Cause there ain't no one for to give you no pain
 La, la, la la la la, la la la, la la... [repeats]
 
 
 ==================
-
 "A Horse With No Name" -- America
 
 On the first part of the journey

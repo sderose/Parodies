@@ -1,6 +1,6 @@
 =======================================
-Hope is the Thing with Feathers
-Emily Dickinson
+Hope is the Thing with Feathers -- Emily Dickinson
+(parody by Steve DeRose)
 
 “Markup” is the thing that measures –
 That perches in the prose –
@@ -19,8 +19,7 @@ It asked a crumb – of me.
 
 
 =======================================
-Hope is the Thing with Feathers
-Emily Dickinson
+Hope is the Thing with Feathers -- Emily Dickinson
 
 “Hope” is the thing with feathers –
 That perches in the soul –

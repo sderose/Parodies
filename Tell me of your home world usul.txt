@@ -1,19 +1,18 @@
-Tag caches of Dune
+======================
+Tell me of your home world, Usul -- Dune
+(parody by Steve DeRose)
 
 Dune: The Web
 The Emperor: TimBL
-Spice:
-Atreides:   XML
+Atreides: XML
 Harkonen: JSON
-Fremen:   markdown? SHORTTAG?
+Fremen: markdown
 Paul: WF XML
-Jessica: markdown advocate / invisible XML
+Jessica: markdown advocate
 Chani: Bosak
-Bene Gesserat: Wiki Pedian
+Bene Gesserat: Wikipedian
 
 Script: https://www.springfieldspringfield.co.uk/movie_script.php?movie=dune
-
-This scene https://www.bing.com/videos/search?q=tell+me+of+your+home+world%2c+usul&&view=detail&mid=62F2125123881F69802962F2125123881F698029&&FORM=VRDGAR
 
 [ Jessica Whispering as she stares at a Markdown document ]
 Such stealth. I didn't see tags.
@@ -41,7 +40,10 @@ Greater than treasure, Useful. We have thousands of schemas, and only a few of u
 [ Musical Tone ]
 Tell me of your web world, Useful.
 
-=======
+
+======================
+Tell me of your home world, Usul -- Dune
+
 [ Jessica Whispering ]
 Such stealth. I didn't hear them.
 [ Man ] Perhaps these are the ones the Shadout Mapes told us of. I will take the boy-man.

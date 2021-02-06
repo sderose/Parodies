@@ -1,5 +1,6 @@
 =======================================
-11. “The Panther” - Rainer Maria Rilke
+The Panther -- Rainer Maria Rilke
+(parody by Steve DeRose)
 
 His vision, from constantly tagging paras,
 has known no theory, thus it cannot hold
@@ -18,7 +19,7 @@ plunges into the heart and is gone.
 
 
 =======================================
-11. “The Panther” - Rainer Maria Rilke
+The Panther -= Rainer Maria Rilke
 
 His vision, from the constantly passing bars,
 has grown so weary that it cannot hold
