@@ -2,13 +2,13 @@
 Sonnet 29 -- William Shakespeare
 (parody by Steve DeRose)
 
-When, in disgrace with parsers that just freeze,
+When, in disgrace with invalidities,
 I all alone beweep my ill-tagged state,
-And fail at rendering my rootless trees,
-And look upon myself, and long for Jade,
-Wishing me like to one more rich in tropes,
+And trouble deaf parsers with my rootless trees,
+And look upon myself and long for Jade,
+Wishing me like to one more rich in scopes,
 Structured like him, like him with end-tags blessed,
-Desiring this one's start and that one's scope,
+Desiring this one's close and that one's ope,
 With formatting I have contented least;
 Yet in these thoughts myself almost despising,
 Haply XSLT —- and then my state,
@@ -16,8 +16,6 @@ Like to the markup elements arising
 From plain text birthed, sing hymns at heaven's gate;
    For my sweet text restructured such wealth brings
    That then I scorn to change my state with kings.
-
-[or line 1: 'for invalidities']
 
 
 =======================================
