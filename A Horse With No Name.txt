@@ -6,7 +6,7 @@ On the first part of the journey
 I was looking at all the tags
 There were <part>s and <div>s and <note>s and things
 There was <span> and fills and strings
-The first thing I stripped was a <li> -- oops, no star;
+The first thing I stripped was a list -- oops, no star;
 then a cite -- so no <note>;
 The heads are gone and the grids awry
 But the tabs are all around.
