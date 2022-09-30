@@ -37,7 +37,7 @@ If neither CSS nor TEX can hurt you,
 If you can pass the unforgiving parser
    With markup you built up from a tag salad,
 Yours is the Earth and every text that's in it,
-   And -- which is more -- you've XML -- and valid!
+   And -- which is more -- it's XML -- and valid!
 
 
 =======================================
