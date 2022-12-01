@@ -1,7 +1,6 @@
 ==============
 "Dust in the Wind" -- Kansas
-
-(unfinished)
+(parody by Steve DeRose)
 
 I close my tags
 Only with a bracket, and the el'ment's gone
@@ -12,7 +11,7 @@ Structure in mind
 All we have is structure in mind
 
 Same old song
-Just a drop of one NULL ends a string in C
+Just a byte of one NULL ends a string in C
 All we do
 Crumbles to the ground, though we refuse to see
 
