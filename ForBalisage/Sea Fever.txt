@@ -5,7 +5,7 @@ Sea Fever -- John Masefield
 I must walk down through the trees again, so the lonely leaves all comply,
 And all I ask is a bash script, and a parser to run thereby.
 My XSL's sick and the mode's wrong, with structure fails waking;
-with a great mess in the tree’s place: another dawn breaking.
+And a great mess in the tree’s place: another dawn breaking.
 
 I must walk down through the trees again, with the call in the template's mode:
 A compiled call, a FLWOR call that may not be o'errode;

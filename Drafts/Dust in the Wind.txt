@@ -12,7 +12,7 @@ All we have is structure in mind
 
 Same old song
 Just a byte of one NULL ends a string in C
-All we do
+Upstream RAM
 Crumbles to the ground, though we refuse to see
 
 Structure in mind
